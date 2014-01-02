@@ -1,0 +1,40 @@
+D:\Study\GDS\Projects\Internet banking\Server_Central_Bank\bin\Debug\Server_Central_Bank.exe
+D:\Study\GDS\Projects\Internet banking\Server_Central_Bank\bin\Debug\Server_Central_Bank.pdb
+D:\Study\GDS\Projects\Internet banking\Server_Central_Bank\bin\Debug\Client_Account.exe
+D:\Study\GDS\Projects\Internet banking\Server_Central_Bank\bin\Debug\InternetBanking_Interface.dll
+D:\Study\GDS\Projects\Internet banking\Server_Central_Bank\bin\Debug\Client_Account.pdb
+D:\Study\GDS\Projects\Internet banking\Server_Central_Bank\bin\Debug\InternetBanking_Interface.pdb
+D:\Study\GDS\Projects\Internet banking\Server_Central_Bank\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\GDS\Projects\Internet banking\Server_Central_Bank\obj\x86\Debug\Server_Central_Bank.Properties.Resources.resources
+D:\Study\GDS\Projects\Internet banking\Server_Central_Bank\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Study\GDS\Projects\Internet banking\Server_Central_Bank\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Study\GDS\Projects\Internet banking\Server_Central_Bank\obj\x86\Debug\Server_Central_Bank.exe
+D:\Study\GDS\Projects\Internet banking\Server_Central_Bank\obj\x86\Debug\Server_Central_Bank.pdb
+D:\Study\GDS\Projects\Internet banking\Server_Central_Bank\bin\Debug\Server_Central_Bank.exe.config
+D:\Study\GDS\Projects\Internet banking\Server_Central_Bank\obj\x86\Debug\ResGen.read.1.tlog
+D:\Study\GDS\Projects\Internet banking\Server_Central_Bank\obj\x86\Debug\ResGen.write.1.tlog
+G:\tahun ke empat\GDS\inet bank\Internet banking\Server_Central_Bank\bin\Debug\Server_Central_Bank.exe.config
+G:\tahun ke empat\GDS\inet bank\Internet banking\Server_Central_Bank\obj\x86\Debug\Server_Central_Bank.exe
+G:\tahun ke empat\GDS\inet bank\Internet banking\Server_Central_Bank\obj\x86\Debug\Server_Central_Bank.pdb
+G:\tahun ke empat\GDS\inet bank\Internet banking\Server_Central_Bank\bin\Debug\Server_Central_Bank.exe
+G:\tahun ke empat\GDS\inet bank\Internet banking\Server_Central_Bank\bin\Debug\Server_Central_Bank.pdb
+G:\tahun ke empat\GDS\inet bank\Internet banking\Server_Central_Bank\bin\Debug\Client_Account.exe
+G:\tahun ke empat\GDS\inet bank\Internet banking\Server_Central_Bank\bin\Debug\InternetBanking_Interface.dll
+G:\tahun ke empat\GDS\inet bank\Internet banking\Server_Central_Bank\bin\Debug\Client_Account.pdb
+G:\tahun ke empat\GDS\inet bank\Internet banking\Server_Central_Bank\bin\Debug\InternetBanking_Interface.pdb
+G:\tahun ke empat\GDS\inet bank\Internet banking\Server_Central_Bank\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\tahun ke empat\GDS\inet bank\Internet banking\Server_Central_Bank\obj\x86\Debug\Server_Central_Bank.Properties.Resources.resources
+G:\tahun ke empat\GDS\inet bank\Internet banking\Server_Central_Bank\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\tahun ke empat\GDS\inet bank\Internet banking\Server_Central_Bank\obj\x86\Debug\ResGen.read.1.tlog
+G:\tahun ke empat\GDS\inet bank\Internet banking\Server_Central_Bank\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\tahun ke empat\GDS\inet bank\Internet banking\Server_Central_Bank\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Ami\Documents\Internet banking\Internet banking\Server_Central_Bank\bin\Debug\Server_Central_Bank.exe.config
+C:\Users\Ami\Documents\Internet banking\Internet banking\Server_Central_Bank\obj\x86\Debug\Server_Central_Bank.exe
+C:\Users\Ami\Documents\Internet banking\Internet banking\Server_Central_Bank\obj\x86\Debug\Server_Central_Bank.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Internet banking\Internet banking\Server_Central_Bank\obj\x86\Debug\Server_Central_Bank.Properties.Resources.resources
+C:\Users\Ami\Documents\Internet banking\Internet banking\Server_Central_Bank\obj\x86\Debug\Server_Central_Bank.csproj.GenerateResource.Cache
+C:\Users\Ami\Documents\Internet banking\Server_Central_Bank\bin\Debug\Server_Central_Bank.exe.config
+C:\Users\Ami\Documents\Internet banking\Server_Central_Bank\obj\x86\Debug\Server_Central_Bank.exe
+C:\Users\Ami\Documents\Internet banking\Server_Central_Bank\obj\x86\Debug\Server_Central_Bank.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Internet banking\Server_Central_Bank\obj\x86\Debug\Server_Central_Bank.Properties.Resources.resources
+C:\Users\Ami\Documents\Internet banking\Server_Central_Bank\obj\x86\Debug\Server_Central_Bank.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+D:\Study\GDS\Projects\Internet banking\InternetBanking_Interface\bin\Release\InternetBanking_Interface.dll
+D:\Study\GDS\Projects\Internet banking\InternetBanking_Interface\bin\Release\InternetBanking_Interface.pdb
+D:\Study\GDS\Projects\Internet banking\InternetBanking_Interface\obj\Release\ResolveAssemblyReference.cache
+D:\Study\GDS\Projects\Internet banking\InternetBanking_Interface\obj\Release\InternetBanking_Interface.dll
+D:\Study\GDS\Projects\Internet banking\InternetBanking_Interface\obj\Release\InternetBanking_Interface.pdb

@@ -1,0 +1,58 @@
+D:\Study\GDS\Projects\Internet banking\Client_Account\bin\Debug\Client_Account.exe
+D:\Study\GDS\Projects\Internet banking\Client_Account\bin\Debug\Client_Account.pdb
+D:\Study\GDS\Projects\Internet banking\Client_Account\bin\Debug\InternetBanking_Interface.dll
+D:\Study\GDS\Projects\Internet banking\Client_Account\bin\Debug\InternetBanking_Interface.pdb
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Login_form.resources
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Properties.Resources.resources
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Registration_form.resources
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Session_client.resources
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Debug\Client_Account.exe
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Debug\Client_Account.pdb
+D:\Study\GDS\Projects\Internet banking\Client_Account\bin\Debug\Client_Account.exe.config
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Debug\ResGen.read.1.tlog
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Debug\ResGen.write.1.tlog
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\bin\Debug\Client_Account.exe.config
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\obj\x86\Debug\Client_Account.exe
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\obj\x86\Debug\Client_Account.pdb
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\bin\Debug\Client_Account.exe
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\bin\Debug\Client_Account.pdb
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\bin\Debug\InternetBanking_Interface.dll
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\bin\Debug\InternetBanking_Interface.pdb
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Login_form.resources
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Properties.Resources.resources
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Registration_form.resources
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Session_client.resources
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\obj\x86\Debug\ResGen.read.1.tlog
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\tahun ke empat\GDS\inet bank\Internet banking\Client_Account\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Ami\Documents\Internet banking\Internet banking\Client_Account\bin\Debug\Client_Account.exe.config
+C:\Users\Ami\Documents\Internet banking\Internet banking\Client_Account\obj\x86\Debug\Client_Account.exe
+C:\Users\Ami\Documents\Internet banking\Internet banking\Client_Account\obj\x86\Debug\Client_Account.pdb
+C:\Users\Ami\Documents\Internet banking\Internet banking\Client_Account\bin\Debug\Client_Account.exe
+C:\Users\Ami\Documents\Internet banking\Internet banking\Client_Account\bin\Debug\Client_Account.pdb
+C:\Users\Ami\Documents\Internet banking\Internet banking\Client_Account\bin\Debug\InternetBanking_Interface.dll
+C:\Users\Ami\Documents\Internet banking\Internet banking\Client_Account\bin\Debug\InternetBanking_Interface.pdb
+C:\Users\Ami\Documents\Internet banking\Internet banking\Client_Account\obj\x86\Debug\Client_Account.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Internet banking\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Login_form.resources
+C:\Users\Ami\Documents\Internet banking\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Properties.Resources.resources
+C:\Users\Ami\Documents\Internet banking\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Registration_form.resources
+C:\Users\Ami\Documents\Internet banking\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Session_client.resources
+C:\Users\Ami\Documents\Internet banking\Internet banking\Client_Account\obj\x86\Debug\Client_Account.csproj.GenerateResource.Cache
+C:\Users\Ami\Documents\Internet banking\Client_Account\bin\Debug\Client_Account.exe.config
+C:\Users\Ami\Documents\Internet banking\Client_Account\obj\x86\Debug\Client_Account.exe
+C:\Users\Ami\Documents\Internet banking\Client_Account\obj\x86\Debug\Client_Account.pdb
+C:\Users\Ami\Documents\Internet banking\Client_Account\bin\Debug\Client_Account.exe
+C:\Users\Ami\Documents\Internet banking\Client_Account\bin\Debug\Client_Account.pdb
+C:\Users\Ami\Documents\Internet banking\Client_Account\bin\Debug\InternetBanking_Interface.dll
+C:\Users\Ami\Documents\Internet banking\Client_Account\bin\Debug\InternetBanking_Interface.pdb
+C:\Users\Ami\Documents\Internet banking\Client_Account\obj\x86\Debug\Client_Account.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Login_form.resources
+C:\Users\Ami\Documents\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Properties.Resources.resources
+C:\Users\Ami\Documents\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Registration_form.resources
+C:\Users\Ami\Documents\Internet banking\Client_Account\obj\x86\Debug\Client_Account.Session_client.resources
+C:\Users\Ami\Documents\Internet banking\Client_Account\obj\x86\Debug\Client_Account.csproj.GenerateResource.Cache

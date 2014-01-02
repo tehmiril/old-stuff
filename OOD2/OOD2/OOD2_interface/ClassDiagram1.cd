@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="OOD2_interface.Form1" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBEBMGkAECAGQBgAIkWAAGoCDIAJBwkoBGQIAIBCMAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_interface.BOARD">
+    <Position X="9.25" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BOARD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_interface.CONNECTION">
+    <Position X="2.25" Y="0.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAbAgADAAAAAEIJAEABAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>CONNECTION.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_interface.GATE">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QjAAYAAIAAAgAAAAAAIIAAgCAAAGABIAAAAgAQABAhA=</HashCode>
+      <FileName>GATE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_interface.ANDGate">
+    <Position X="2.25" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>ANDGate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_interface.NOTGate">
+    <Position X="4.25" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>NOTGate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_interface.ORGate">
+    <Position X="6.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>ORGate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_interface.SINKGate">
+    <Position X="8.75" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SINKGate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOD2_interface.SOURCEGate">
+    <Position X="11.25" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAQAgA=</HashCode>
+      <FileName>SOURCEGate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

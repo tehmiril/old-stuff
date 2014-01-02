@@ -1,0 +1,14 @@
+D:\Study\GDS\Projects\Internet banking\InternetBanking_Interface\bin\Debug\InternetBanking_Interface.dll
+D:\Study\GDS\Projects\Internet banking\InternetBanking_Interface\bin\Debug\InternetBanking_Interface.pdb
+D:\Study\GDS\Projects\Internet banking\InternetBanking_Interface\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\GDS\Projects\Internet banking\InternetBanking_Interface\obj\Debug\InternetBanking_Interface.dll
+D:\Study\GDS\Projects\Internet banking\InternetBanking_Interface\obj\Debug\InternetBanking_Interface.pdb
+G:\tahun ke empat\GDS\inet bank\Internet banking\InternetBanking_Interface\bin\Debug\InternetBanking_Interface.dll
+G:\tahun ke empat\GDS\inet bank\Internet banking\InternetBanking_Interface\bin\Debug\InternetBanking_Interface.pdb
+G:\tahun ke empat\GDS\inet bank\Internet banking\InternetBanking_Interface\obj\Debug\ResolveAssemblyReference.cache
+G:\tahun ke empat\GDS\inet bank\Internet banking\InternetBanking_Interface\obj\Debug\InternetBanking_Interface.dll
+G:\tahun ke empat\GDS\inet bank\Internet banking\InternetBanking_Interface\obj\Debug\InternetBanking_Interface.pdb
+C:\Users\Ami\Documents\Internet banking\Internet banking\InternetBanking_Interface\bin\Debug\InternetBanking_Interface.dll
+C:\Users\Ami\Documents\Internet banking\Internet banking\InternetBanking_Interface\bin\Debug\InternetBanking_Interface.pdb
+C:\Users\Ami\Documents\Internet banking\Internet banking\InternetBanking_Interface\obj\Debug\InternetBanking_Interface.dll
+C:\Users\Ami\Documents\Internet banking\Internet banking\InternetBanking_Interface\obj\Debug\InternetBanking_Interface.pdb

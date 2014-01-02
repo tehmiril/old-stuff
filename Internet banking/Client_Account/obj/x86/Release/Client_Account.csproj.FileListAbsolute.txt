@@ -1,0 +1,16 @@
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Release\Client_Account.Login_form.resources
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Release\Client_Account.Properties.Resources.resources
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Release\Client_Account.Registration_form.resources
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Release\Client_Account.Session_client.resources
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Study\GDS\Projects\Internet banking\Client_Account\bin\Release\Client_Account.exe
+D:\Study\GDS\Projects\Internet banking\Client_Account\bin\Release\Client_Account.pdb
+D:\Study\GDS\Projects\Internet banking\Client_Account\bin\Release\InternetBanking_Interface.dll
+D:\Study\GDS\Projects\Internet banking\Client_Account\bin\Release\InternetBanking_Interface.pdb
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Release\Client_Account.exe
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Release\Client_Account.pdb
+D:\Study\GDS\Projects\Internet banking\Client_Account\bin\Release\Client_Account.exe.config
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Release\ResGen.read.1.tlog
+D:\Study\GDS\Projects\Internet banking\Client_Account\obj\x86\Release\ResGen.write.1.tlog
